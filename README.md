@@ -186,8 +186,6 @@ Contoh kata:
 - 何人（なんにん）= berapa orang
 - 何時（なんじ）= jam berapa
 
-### Tabel Lengkap 20 Kanji Umum (Pekerjaan・Pendidikan・Kehidupan)
-
 | No | Kanji | Arti | On’yomi (音読み) | Kun’yomi (訓読み) | Contoh & Cara Baca |
 |:--:|:--:|:--|:--|:--|:--|
 | 1 | 私 | saya, pribadi | シ (*shi*) | わたし, わたくし | 私（わたし）= saya / 私立（しりつ）= swasta |
@@ -210,10 +208,3 @@ Contoh kata:
 | 18 | 院 | institusi, gedung resmi | イン (*in*) | — | 病院（びょういん）= rumah sakit / 大学院（だいがくいん）= pascasarjana |
 | 19 | 歳 | usia, tahun (umur) | サイ, セイ (*sai, sei*) | とし | 何歳（なんさい）= umur berapa / 二十歳（はたち）= umur 20 tahun |
 | 20 | 何 | apa | カ (*ka*) | なに, なん | 何（なに）= apa / 何人（なんにん）= berapa orang |
-
----
-
-### 💡 Tips Hafalan Cepat
-- Gabungkan kanji yang sering muncul bersama, misalnya:  
-  - 先生 (guru), 教師 (pengajar), 学生 (pelajar), 会社員 (pegawai), 医者 (dokter), 銀行員 (pegawai bank)  
-- Gunakan aplikasi seperti **Takoboto**, **Jisho.org**, atau **Kanji Study** untuk mendengarkan pelafalan dan melihat stroke order.
