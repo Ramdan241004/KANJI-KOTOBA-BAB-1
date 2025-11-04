@@ -185,3 +185,35 @@ Contoh kata:
 - 何歳（なんさい）= umur berapa
 - 何人（なんにん）= berapa orang
 - 何時（なんじ）= jam berapa
+
+# 📘 Tabel Lengkap 20 Kanji Umum (Pekerjaan・Pendidikan・Kehidupan)
+
+| No | Kanji | Arti | On’yomi (音読み) | Kun’yomi (訓読み) | Contoh & Cara Baca |
+|:--:|:--:|:--|:--|:--|:--|
+| 1 | 私 | saya, pribadi | シ (*shi*) | わたし, わたくし | 私（わたし）= saya / 私立（しりつ）= swasta |
+| 2 | 先 | dulu, depan | セン (*sen*) | さき | 先生（せんせい）= guru / 先週（せんしゅう）= minggu lalu |
+| 3 | 生 | hidup, lahir | セイ, ショウ (*sei, shō*) | いきる, うまれる, なま | 学生（がくせい）= pelajar / 生きる（いきる）= hidup |
+| 4 | 教 | mengajar | キョウ (*kyō*) | おしえる, おそわる | 教える（おしえる）= mengajar / 教師（きょうし）= pengajar |
+| 5 | 師 | guru, ahli | シ (*shi*) | — | 教師（きょうし）= guru / 医師（いし）= dokter |
+| 6 | 学 | belajar, ilmu | ガク (*gaku*) | まなぶ | 学生（がくせい）= pelajar / 学校（がっこう）= sekolah |
+| 7 | 会 | bertemu, pertemuan | カイ, エ (*kai, e*) | あう | 会う（あう）= bertemu / 会話（かいわ）= percakapan |
+| 8 | 社 | perusahaan, masyarakat | シャ (*sha*) | やしろ | 会社（かいしゃ）= perusahaan / 神社（じんじゃ）= kuil |
+| 9 | 員 | anggota, personel | イン (*in*) | — | 社員（しゃいん）= pegawai / 会員（かいいん）= anggota |
+| 10 | 銀 | perak, uang | ギン (*gin*) | — | 銀行（ぎんこう）= bank / 銀（ぎん）= perak |
+| 11 | 行 | pergi, melakukan | コウ, ギョウ (*kō, gyō*) | いく, ゆく, おこなう | 行く（いく）= pergi / 銀行（ぎんこう）= bank |
+| 12 | 医 | kedokteran | イ (*i*) | — | 医者（いしゃ）= dokter / 医学（いがく）= ilmu kedokteran |
+| 13 | 者 | orang (pelaku) | シャ (*sha*) | もの | 医者（いしゃ）= dokter / 若者（わかもの）= anak muda |
+| 14 | 研 | mengasah, meneliti | ケン (*ken*) | とぐ | 研究（けんきゅう）= penelitian |
+| 15 | 究 | menyelidiki, mendalami | キュウ (*kyū*) | きわめる | 研究（けんきゅう）= penelitian / 究明（きゅうめい）= penyelidikan |
+| 16 | 大 | besar | ダイ, タイ (*dai, tai*) | おおきい | 大学（だいがく）= universitas / 大きい（おおきい）= besar |
+| 17 | 病 | sakit, penyakit | ビョウ, ヘイ (*byō, hei*) | やまい, やむ | 病院（びょういん）= rumah sakit / 病気（びょうき）= penyakit |
+| 18 | 院 | institusi, gedung resmi | イン (*in*) | — | 病院（びょういん）= rumah sakit / 大学院（だいがくいん）= pascasarjana |
+| 19 | 歳 | usia, tahun (umur) | サイ, セイ (*sai, sei*) | とし | 何歳（なんさい）= umur berapa / 二十歳（はたち）= umur 20 tahun |
+| 20 | 何 | apa | カ (*ka*) | なに, なん | 何（なに）= apa / 何人（なんにん）= berapa orang |
+
+---
+
+### 💡 Tips Hafalan Cepat
+- Gabungkan kanji yang sering muncul bersama, misalnya:  
+  - 先生 (guru), 教師 (pengajar), 学生 (pelajar), 会社員 (pegawai), 医者 (dokter), 銀行員 (pegawai bank)  
+- Gunakan aplikasi seperti **Takoboto**, **Jisho.org**, atau **Kanji Study** untuk mendengarkan pelafalan dan melihat stroke order.
